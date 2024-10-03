@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Start/NumbersDates/ParseDates/ParseDates.csproj": {}
+    "/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/NumbersDates/ParseDates/ParseDates.csproj": {}
   },
   "projects": {
-    "/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Start/NumbersDates/ParseDates/ParseDates.csproj": {
+    "/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/NumbersDates/ParseDates/ParseDates.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Start/NumbersDates/ParseDates/ParseDates.csproj",
+        "projectUniqueName": "/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/NumbersDates/ParseDates/ParseDates.csproj",
         "projectName": "ParseDates",
-        "projectPath": "/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Start/NumbersDates/ParseDates/ParseDates.csproj",
+        "projectPath": "/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/NumbersDates/ParseDates/ParseDates.csproj",
         "packagesPath": "/home/desire/.nuget/packages/",
-        "outputPath": "/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Start/NumbersDates/ParseDates/obj/",
+        "outputPath": "/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/NumbersDates/ParseDates/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/desire/.nuget/NuGet/NuGet.Config"

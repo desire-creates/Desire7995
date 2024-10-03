@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Start/Regex/Finding/Finding.csproj",
+      "projectUniqueName": "/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/Regex/Finding/Finding.csproj",
       "projectName": "Finding",
-      "projectPath": "/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Start/Regex/Finding/Finding.csproj",
+      "projectPath": "/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/Regex/Finding/Finding.csproj",
       "packagesPath": "/home/desire/.nuget/packages/",
-      "outputPath": "/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Start/Regex/Finding/obj/",
+      "outputPath": "/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/Regex/Finding/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/desire/.nuget/NuGet/NuGet.Config"

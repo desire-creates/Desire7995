@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Start/Files/Directories/Directories.csproj": {}
+    "/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/Files/Directories/Directories.csproj": {}
   },
   "projects": {
-    "/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Start/Files/Directories/Directories.csproj": {
+    "/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/Files/Directories/Directories.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Start/Files/Directories/Directories.csproj",
+        "projectUniqueName": "/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/Files/Directories/Directories.csproj",
         "projectName": "Directories",
-        "projectPath": "/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Start/Files/Directories/Directories.csproj",
+        "projectPath": "/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/Files/Directories/Directories.csproj",
         "packagesPath": "/home/desire/.nuget/packages/",
-        "outputPath": "/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Start/Files/Directories/obj/",
+        "outputPath": "/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/Files/Directories/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/desire/.nuget/NuGet/NuGet.Config"

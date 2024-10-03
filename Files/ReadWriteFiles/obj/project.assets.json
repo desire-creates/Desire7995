@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Start/Files/ReadWriteFiles/ReadWriteFiles.csproj",
+      "projectUniqueName": "/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/Files/ReadWriteFiles/ReadWriteFiles.csproj",
       "projectName": "ReadWriteFiles",
-      "projectPath": "/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Start/Files/ReadWriteFiles/ReadWriteFiles.csproj",
+      "projectPath": "/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/Files/ReadWriteFiles/ReadWriteFiles.csproj",
       "packagesPath": "/home/desire/.nuget/packages/",
-      "outputPath": "/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Start/Files/ReadWriteFiles/obj/",
+      "outputPath": "/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/Files/ReadWriteFiles/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/desire/.nuget/NuGet/NuGet.Config"

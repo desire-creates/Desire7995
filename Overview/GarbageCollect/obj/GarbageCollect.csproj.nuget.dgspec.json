@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Start/Overview/GarbageCollect/GarbageCollect.csproj": {}
+    "/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/Overview/GarbageCollect/GarbageCollect.csproj": {}
   },
   "projects": {
-    "/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Start/Overview/GarbageCollect/GarbageCollect.csproj": {
+    "/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/Overview/GarbageCollect/GarbageCollect.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Start/Overview/GarbageCollect/GarbageCollect.csproj",
+        "projectUniqueName": "/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/Overview/GarbageCollect/GarbageCollect.csproj",
         "projectName": "GarbageCollect",
-        "projectPath": "/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Start/Overview/GarbageCollect/GarbageCollect.csproj",
+        "projectPath": "/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/Overview/GarbageCollect/GarbageCollect.csproj",
         "packagesPath": "/home/desire/.nuget/packages/",
-        "outputPath": "/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Start/Overview/GarbageCollect/obj/",
+        "outputPath": "/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/Overview/GarbageCollect/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/desire/.nuget/NuGet/NuGet.Config"

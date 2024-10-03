@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Start/NumbersDates/FormatNumbers/FormatNumbers.csproj": {}
+    "/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/NumbersDates/FormatNumbers/FormatNumbers.csproj": {}
   },
   "projects": {
-    "/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Start/NumbersDates/FormatNumbers/FormatNumbers.csproj": {
+    "/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/NumbersDates/FormatNumbers/FormatNumbers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Start/NumbersDates/FormatNumbers/FormatNumbers.csproj",
+        "projectUniqueName": "/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/NumbersDates/FormatNumbers/FormatNumbers.csproj",
         "projectName": "FormatNumbers",
-        "projectPath": "/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Start/NumbersDates/FormatNumbers/FormatNumbers.csproj",
+        "projectPath": "/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/NumbersDates/FormatNumbers/FormatNumbers.csproj",
         "packagesPath": "/home/desire/.nuget/packages/",
-        "outputPath": "/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Start/NumbersDates/FormatNumbers/obj/",
+        "outputPath": "/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/NumbersDates/FormatNumbers/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/desire/.nuget/NuGet/NuGet.Config"

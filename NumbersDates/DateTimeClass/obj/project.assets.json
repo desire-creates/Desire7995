@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Start/NumbersDates/DateTimeClass/DateTimeClass.csproj",
+      "projectUniqueName": "/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/NumbersDates/DateTimeClass/DateTimeClass.csproj",
       "projectName": "DateTimeClass",
-      "projectPath": "/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Start/NumbersDates/DateTimeClass/DateTimeClass.csproj",
+      "projectPath": "/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/NumbersDates/DateTimeClass/DateTimeClass.csproj",
       "packagesPath": "/home/desire/.nuget/packages/",
-      "outputPath": "/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Start/NumbersDates/DateTimeClass/obj/",
+      "outputPath": "/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/NumbersDates/DateTimeClass/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/desire/.nuget/NuGet/NuGet.Config"

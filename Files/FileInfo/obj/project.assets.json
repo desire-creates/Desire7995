@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Start/Files/FileInfo/FileInfo.csproj",
+      "projectUniqueName": "/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/Files/FileInfo/FileInfo.csproj",
       "projectName": "FileInfo",
-      "projectPath": "/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Start/Files/FileInfo/FileInfo.csproj",
+      "projectPath": "/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/Files/FileInfo/FileInfo.csproj",
       "packagesPath": "/home/desire/.nuget/packages/",
-      "outputPath": "/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Start/Files/FileInfo/obj/",
+      "outputPath": "/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/Files/FileInfo/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/desire/.nuget/NuGet/NuGet.Config"

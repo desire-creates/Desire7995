@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Start/Regex/Replacing/Replacing.csproj",
+      "projectUniqueName": "/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/Regex/Replacing/Replacing.csproj",
       "projectName": "Replacing",
-      "projectPath": "/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Start/Regex/Replacing/Replacing.csproj",
+      "projectPath": "/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/Regex/Replacing/Replacing.csproj",
       "packagesPath": "/home/desire/.nuget/packages/",
-      "outputPath": "/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Start/Regex/Replacing/obj/",
+      "outputPath": "/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/Regex/Replacing/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/desire/.nuget/NuGet/NuGet.Config"

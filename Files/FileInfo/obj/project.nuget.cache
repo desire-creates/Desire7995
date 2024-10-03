@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LVkNVKQp8LweImv7MFDHZkbCFH+GVDC6X9dc/NIv4NCYNrz42UVLk5S9yuKnJ71dL5Er8TeJwlx3cnb7F02Ncw==",
+  "dgSpecHash": "Uj+k+IV8qQZRtP5tY2/vEYdwUO2wqVplc9ftM01/qDWseeXfU5ZTdxLfIME0HOH+RVsW4VrfCu9IUTH4mrbu3w==",
   "success": true,
-  "projectFilePath": "/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Start/Files/FileInfo/FileInfo.csproj",
+  "projectFilePath": "/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/Files/FileInfo/FileInfo.csproj",
   "expectedPackageFiles": [
     "/home/desire/.nuget/packages/microsoft.netcore.app.ref/6.0.33/microsoft.netcore.app.ref.6.0.33.nupkg.sha512",
     "/home/desire/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.33/microsoft.aspnetcore.app.ref.6.0.33.nupkg.sha512",
