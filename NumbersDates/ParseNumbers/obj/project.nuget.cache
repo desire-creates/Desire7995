@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "oa26Y2jHbcuDSZ+WYA8CoGVxJ08+rpYEWPVBvHdUGlVlmEmbh0irojpen3xxjz60R3seiDtVg5fzHOmxo2FURQ==",
+  "success": true,
+  "projectFilePath": "/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Start/NumbersDates/ParseNumbers/ParseNumbers.csproj",
+  "expectedPackageFiles": [
+    "/home/desire/.nuget/packages/microsoft.netcore.app.ref/6.0.33/microsoft.netcore.app.ref.6.0.33.nupkg.sha512",
+    "/home/desire/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.33/microsoft.aspnetcore.app.ref.6.0.33.nupkg.sha512",
+    "/home/desire/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.33/microsoft.netcore.app.host.linux-x64.6.0.33.nupkg.sha512"
+  ],
+  "logs": []
+}

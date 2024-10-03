@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "uqLbRc1q3PtbKwEDV7bbAqVIyH9B6Oon5bYoi0AQmKg76u9u7iyD+h69CDOHasoz7jZJClGlRmnauuok97FE8Q==",
+  "success": true,
+  "projectFilePath": "/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Start/Strings/Manipulation/Manipulation.csproj",
+  "expectedPackageFiles": [
+    "/home/desire/.nuget/packages/microsoft.netcore.app.ref/6.0.33/microsoft.netcore.app.ref.6.0.33.nupkg.sha512",
+    "/home/desire/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.33/microsoft.aspnetcore.app.ref.6.0.33.nupkg.sha512",
+    "/home/desire/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.33/microsoft.netcore.app.host.linux-x64.6.0.33.nupkg.sha512"
+  ],
+  "logs": []
+}
