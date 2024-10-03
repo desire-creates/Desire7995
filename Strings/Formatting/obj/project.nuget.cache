@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "t0/4Iq62oO1zcNOt7v2dkT6JEytd31fTAnDDg8S0zRt9YzWWRFNlJUxjgbvIUv+hgzxa7Ha/1gWJ5/Ul+o0D0A==",
+  "dgSpecHash": "8ScyvAdXqgjAXdwsJ7QuZ6WfqB6FbV4X2X2LCtC3r9nFXNX2P6Z4eI1Xr1UCQE4yNBQgaKlXg+P5jYhNj7aIDg==",
   "success": true,
   "projectFilePath": "/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/Strings/Formatting/Formatting.csproj",
-  "expectedPackageFiles": [
-    "/home/desire/.nuget/packages/microsoft.netcore.app.ref/6.0.33/microsoft.netcore.app.ref.6.0.33.nupkg.sha512",
-    "/home/desire/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.33/microsoft.aspnetcore.app.ref.6.0.33.nupkg.sha512",
-    "/home/desire/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.33/microsoft.netcore.app.host.linux-x64.6.0.33.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,0 +1,15 @@
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/Overview/GarbageCollect/bin/Debug/net8.0/GarbageCollect
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/Overview/GarbageCollect/bin/Debug/net8.0/GarbageCollect.deps.json
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/Overview/GarbageCollect/bin/Debug/net8.0/GarbageCollect.runtimeconfig.json
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/Overview/GarbageCollect/bin/Debug/net8.0/GarbageCollect.dll
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/Overview/GarbageCollect/bin/Debug/net8.0/GarbageCollect.pdb
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/Overview/GarbageCollect/obj/Debug/net8.0/GarbageCollect.GeneratedMSBuildEditorConfig.editorconfig
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/Overview/GarbageCollect/obj/Debug/net8.0/GarbageCollect.AssemblyInfoInputs.cache
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/Overview/GarbageCollect/obj/Debug/net8.0/GarbageCollect.AssemblyInfo.cs
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/Overview/GarbageCollect/obj/Debug/net8.0/GarbageCollect.csproj.CoreCompileInputs.cache
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/Overview/GarbageCollect/obj/Debug/net8.0/GarbageCollect.sourcelink.json
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/Overview/GarbageCollect/obj/Debug/net8.0/GarbageCollect.dll
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/Overview/GarbageCollect/obj/Debug/net8.0/refint/GarbageCollect.dll
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/Overview/GarbageCollect/obj/Debug/net8.0/GarbageCollect.pdb
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/Overview/GarbageCollect/obj/Debug/net8.0/GarbageCollect.genruntimeconfig.cache
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/Overview/GarbageCollect/obj/Debug/net8.0/ref/GarbageCollect.dll
