@@ -1,0 +1,14 @@
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/Files/Directories/bin/Debug/net8.0/Directories
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/Files/Directories/bin/Debug/net8.0/Directories.deps.json
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/Files/Directories/bin/Debug/net8.0/Directories.runtimeconfig.json
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/Files/Directories/bin/Debug/net8.0/Directories.dll
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/Files/Directories/bin/Debug/net8.0/Directories.pdb
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/Files/Directories/obj/Debug/net8.0/Directories.GeneratedMSBuildEditorConfig.editorconfig
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/Files/Directories/obj/Debug/net8.0/Directories.AssemblyInfoInputs.cache
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/Files/Directories/obj/Debug/net8.0/Directories.AssemblyInfo.cs
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/Files/Directories/obj/Debug/net8.0/Directories.csproj.CoreCompileInputs.cache
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/Files/Directories/obj/Debug/net8.0/Directories.dll
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/Files/Directories/obj/Debug/net8.0/refint/Directories.dll
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/Files/Directories/obj/Debug/net8.0/Directories.pdb
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/Files/Directories/obj/Debug/net8.0/Directories.genruntimeconfig.cache
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/Files/Directories/obj/Debug/net8.0/ref/Directories.dll

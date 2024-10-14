@@ -1,0 +1,14 @@
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/NumbersDates/Challenge/bin/Debug/net8.0/Challenge
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/NumbersDates/Challenge/bin/Debug/net8.0/Challenge.deps.json
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/NumbersDates/Challenge/bin/Debug/net8.0/Challenge.runtimeconfig.json
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/NumbersDates/Challenge/bin/Debug/net8.0/Challenge.dll
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/NumbersDates/Challenge/bin/Debug/net8.0/Challenge.pdb
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/NumbersDates/Challenge/obj/Debug/net8.0/Challenge.GeneratedMSBuildEditorConfig.editorconfig
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/NumbersDates/Challenge/obj/Debug/net8.0/Challenge.AssemblyInfoInputs.cache
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/NumbersDates/Challenge/obj/Debug/net8.0/Challenge.AssemblyInfo.cs
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/NumbersDates/Challenge/obj/Debug/net8.0/Challenge.csproj.CoreCompileInputs.cache
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/NumbersDates/Challenge/obj/Debug/net8.0/Challenge.dll
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/NumbersDates/Challenge/obj/Debug/net8.0/refint/Challenge.dll
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/NumbersDates/Challenge/obj/Debug/net8.0/Challenge.pdb
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/NumbersDates/Challenge/obj/Debug/net8.0/Challenge.genruntimeconfig.cache
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/NumbersDates/Challenge/obj/Debug/net8.0/ref/Challenge.dll

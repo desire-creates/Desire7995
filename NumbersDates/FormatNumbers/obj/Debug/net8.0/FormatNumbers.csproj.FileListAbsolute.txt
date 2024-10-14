@@ -1,0 +1,14 @@
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/NumbersDates/FormatNumbers/bin/Debug/net8.0/FormatNumbers
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/NumbersDates/FormatNumbers/bin/Debug/net8.0/FormatNumbers.deps.json
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/NumbersDates/FormatNumbers/bin/Debug/net8.0/FormatNumbers.runtimeconfig.json
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/NumbersDates/FormatNumbers/bin/Debug/net8.0/FormatNumbers.dll
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/NumbersDates/FormatNumbers/bin/Debug/net8.0/FormatNumbers.pdb
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/NumbersDates/FormatNumbers/obj/Debug/net8.0/FormatNumbers.GeneratedMSBuildEditorConfig.editorconfig
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/NumbersDates/FormatNumbers/obj/Debug/net8.0/FormatNumbers.AssemblyInfoInputs.cache
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/NumbersDates/FormatNumbers/obj/Debug/net8.0/FormatNumbers.AssemblyInfo.cs
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/NumbersDates/FormatNumbers/obj/Debug/net8.0/FormatNumbers.csproj.CoreCompileInputs.cache
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/NumbersDates/FormatNumbers/obj/Debug/net8.0/FormatNumbers.dll
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/NumbersDates/FormatNumbers/obj/Debug/net8.0/refint/FormatNumbers.dll
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/NumbersDates/FormatNumbers/obj/Debug/net8.0/FormatNumbers.pdb
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/NumbersDates/FormatNumbers/obj/Debug/net8.0/FormatNumbers.genruntimeconfig.cache
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/NumbersDates/FormatNumbers/obj/Debug/net8.0/ref/FormatNumbers.dll

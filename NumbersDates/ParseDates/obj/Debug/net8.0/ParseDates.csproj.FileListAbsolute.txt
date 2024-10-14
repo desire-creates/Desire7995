@@ -1,0 +1,14 @@
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/NumbersDates/ParseDates/bin/Debug/net8.0/ParseDates
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/NumbersDates/ParseDates/bin/Debug/net8.0/ParseDates.deps.json
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/NumbersDates/ParseDates/bin/Debug/net8.0/ParseDates.runtimeconfig.json
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/NumbersDates/ParseDates/bin/Debug/net8.0/ParseDates.dll
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/NumbersDates/ParseDates/bin/Debug/net8.0/ParseDates.pdb
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/NumbersDates/ParseDates/obj/Debug/net8.0/ParseDates.GeneratedMSBuildEditorConfig.editorconfig
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/NumbersDates/ParseDates/obj/Debug/net8.0/ParseDates.AssemblyInfoInputs.cache
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/NumbersDates/ParseDates/obj/Debug/net8.0/ParseDates.AssemblyInfo.cs
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/NumbersDates/ParseDates/obj/Debug/net8.0/ParseDates.csproj.CoreCompileInputs.cache
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/NumbersDates/ParseDates/obj/Debug/net8.0/ParseDates.dll
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/NumbersDates/ParseDates/obj/Debug/net8.0/refint/ParseDates.dll
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/NumbersDates/ParseDates/obj/Debug/net8.0/ParseDates.pdb
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/NumbersDates/ParseDates/obj/Debug/net8.0/ParseDates.genruntimeconfig.cache
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/NumbersDates/ParseDates/obj/Debug/net8.0/ref/ParseDates.dll

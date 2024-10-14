@@ -1,0 +1,14 @@
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Start/Overview/DataTypes/bin/Debug/net8.0/DataTypes
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Start/Overview/DataTypes/bin/Debug/net8.0/DataTypes.deps.json
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Start/Overview/DataTypes/bin/Debug/net8.0/DataTypes.runtimeconfig.json
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Start/Overview/DataTypes/bin/Debug/net8.0/DataTypes.dll
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Start/Overview/DataTypes/bin/Debug/net8.0/DataTypes.pdb
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Start/Overview/DataTypes/obj/Debug/net8.0/DataTypes.GeneratedMSBuildEditorConfig.editorconfig
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Start/Overview/DataTypes/obj/Debug/net8.0/DataTypes.AssemblyInfoInputs.cache
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Start/Overview/DataTypes/obj/Debug/net8.0/DataTypes.AssemblyInfo.cs
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Start/Overview/DataTypes/obj/Debug/net8.0/DataTypes.csproj.CoreCompileInputs.cache
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Start/Overview/DataTypes/obj/Debug/net8.0/DataTypes.dll
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Start/Overview/DataTypes/obj/Debug/net8.0/refint/DataTypes.dll
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Start/Overview/DataTypes/obj/Debug/net8.0/DataTypes.pdb
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Start/Overview/DataTypes/obj/Debug/net8.0/DataTypes.genruntimeconfig.cache
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Start/Overview/DataTypes/obj/Debug/net8.0/ref/DataTypes.dll

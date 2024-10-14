@@ -1,0 +1,14 @@
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/NumbersDates/ParseNumbers/bin/Debug/net8.0/ParseNumbers
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/NumbersDates/ParseNumbers/bin/Debug/net8.0/ParseNumbers.deps.json
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/NumbersDates/ParseNumbers/bin/Debug/net8.0/ParseNumbers.runtimeconfig.json
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/NumbersDates/ParseNumbers/bin/Debug/net8.0/ParseNumbers.dll
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/NumbersDates/ParseNumbers/bin/Debug/net8.0/ParseNumbers.pdb
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/NumbersDates/ParseNumbers/obj/Debug/net8.0/ParseNumbers.GeneratedMSBuildEditorConfig.editorconfig
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/NumbersDates/ParseNumbers/obj/Debug/net8.0/ParseNumbers.AssemblyInfoInputs.cache
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/NumbersDates/ParseNumbers/obj/Debug/net8.0/ParseNumbers.AssemblyInfo.cs
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/NumbersDates/ParseNumbers/obj/Debug/net8.0/ParseNumbers.csproj.CoreCompileInputs.cache
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/NumbersDates/ParseNumbers/obj/Debug/net8.0/ParseNumbers.dll
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/NumbersDates/ParseNumbers/obj/Debug/net8.0/refint/ParseNumbers.dll
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/NumbersDates/ParseNumbers/obj/Debug/net8.0/ParseNumbers.pdb
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/NumbersDates/ParseNumbers/obj/Debug/net8.0/ParseNumbers.genruntimeconfig.cache
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/NumbersDates/ParseNumbers/obj/Debug/net8.0/ref/ParseNumbers.dll

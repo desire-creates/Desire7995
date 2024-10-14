@@ -1,0 +1,14 @@
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/Files/CreateFiles/bin/Debug/net8.0/CreateFiles
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/Files/CreateFiles/bin/Debug/net8.0/CreateFiles.deps.json
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/Files/CreateFiles/bin/Debug/net8.0/CreateFiles.runtimeconfig.json
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/Files/CreateFiles/bin/Debug/net8.0/CreateFiles.dll
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/Files/CreateFiles/bin/Debug/net8.0/CreateFiles.pdb
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/Files/CreateFiles/obj/Debug/net8.0/CreateFiles.GeneratedMSBuildEditorConfig.editorconfig
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/Files/CreateFiles/obj/Debug/net8.0/CreateFiles.AssemblyInfoInputs.cache
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/Files/CreateFiles/obj/Debug/net8.0/CreateFiles.AssemblyInfo.cs
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/Files/CreateFiles/obj/Debug/net8.0/CreateFiles.csproj.CoreCompileInputs.cache
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/Files/CreateFiles/obj/Debug/net8.0/CreateFiles.dll
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/Files/CreateFiles/obj/Debug/net8.0/refint/CreateFiles.dll
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/Files/CreateFiles/obj/Debug/net8.0/CreateFiles.pdb
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/Files/CreateFiles/obj/Debug/net8.0/CreateFiles.genruntimeconfig.cache
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/Files/CreateFiles/obj/Debug/net8.0/ref/CreateFiles.dll

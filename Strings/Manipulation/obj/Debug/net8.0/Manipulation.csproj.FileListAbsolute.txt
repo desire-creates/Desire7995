@@ -1,0 +1,14 @@
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/Strings/Manipulation/bin/Debug/net8.0/Manipulation
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/Strings/Manipulation/bin/Debug/net8.0/Manipulation.deps.json
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/Strings/Manipulation/bin/Debug/net8.0/Manipulation.runtimeconfig.json
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/Strings/Manipulation/bin/Debug/net8.0/Manipulation.dll
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/Strings/Manipulation/bin/Debug/net8.0/Manipulation.pdb
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/Strings/Manipulation/obj/Debug/net8.0/Manipulation.GeneratedMSBuildEditorConfig.editorconfig
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/Strings/Manipulation/obj/Debug/net8.0/Manipulation.AssemblyInfoInputs.cache
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/Strings/Manipulation/obj/Debug/net8.0/Manipulation.AssemblyInfo.cs
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/Strings/Manipulation/obj/Debug/net8.0/Manipulation.csproj.CoreCompileInputs.cache
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/Strings/Manipulation/obj/Debug/net8.0/Manipulation.dll
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/Strings/Manipulation/obj/Debug/net8.0/refint/Manipulation.dll
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/Strings/Manipulation/obj/Debug/net8.0/Manipulation.pdb
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/Strings/Manipulation/obj/Debug/net8.0/Manipulation.genruntimeconfig.cache
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/Strings/Manipulation/obj/Debug/net8.0/ref/Manipulation.dll

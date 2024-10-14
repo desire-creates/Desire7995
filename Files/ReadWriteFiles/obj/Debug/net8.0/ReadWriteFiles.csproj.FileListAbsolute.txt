@@ -1,0 +1,14 @@
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/Files/ReadWriteFiles/bin/Debug/net8.0/ReadWriteFiles
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/Files/ReadWriteFiles/bin/Debug/net8.0/ReadWriteFiles.deps.json
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/Files/ReadWriteFiles/bin/Debug/net8.0/ReadWriteFiles.runtimeconfig.json
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/Files/ReadWriteFiles/bin/Debug/net8.0/ReadWriteFiles.dll
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/Files/ReadWriteFiles/bin/Debug/net8.0/ReadWriteFiles.pdb
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/Files/ReadWriteFiles/obj/Debug/net8.0/ReadWriteFiles.GeneratedMSBuildEditorConfig.editorconfig
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/Files/ReadWriteFiles/obj/Debug/net8.0/ReadWriteFiles.AssemblyInfoInputs.cache
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/Files/ReadWriteFiles/obj/Debug/net8.0/ReadWriteFiles.AssemblyInfo.cs
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/Files/ReadWriteFiles/obj/Debug/net8.0/ReadWriteFiles.csproj.CoreCompileInputs.cache
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/Files/ReadWriteFiles/obj/Debug/net8.0/ReadWriteFiles.dll
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/Files/ReadWriteFiles/obj/Debug/net8.0/refint/ReadWriteFiles.dll
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/Files/ReadWriteFiles/obj/Debug/net8.0/ReadWriteFiles.pdb
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/Files/ReadWriteFiles/obj/Debug/net8.0/ReadWriteFiles.genruntimeconfig.cache
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/Files/ReadWriteFiles/obj/Debug/net8.0/ref/ReadWriteFiles.dll
