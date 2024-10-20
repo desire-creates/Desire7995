@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CzSdW0aGyrN5ipQNWssEHbC98aJrQB/W1DaAupeRBVPuZxTkcTqoik/U4mQe69WokO4qheUUKoBqeuUuFJu3LA==",
+  "dgSpecHash": "gx37X2dLgKgo47itj/fMLsXFyeAr6yQwoaaMFrbsuDkR1irPZRdLlIN3MzSXkk5rgjt+3bMWFauNUm4ULujW4w==",
   "success": true,
   "projectFilePath": "/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/Regex/Finding/Finding.csproj",
-  "expectedPackageFiles": [
-    "/home/desire/.nuget/packages/microsoft.netcore.app.ref/6.0.33/microsoft.netcore.app.ref.6.0.33.nupkg.sha512",
-    "/home/desire/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.33/microsoft.aspnetcore.app.ref.6.0.33.nupkg.sha512",
-    "/home/desire/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.33/microsoft.netcore.app.host.linux-x64.6.0.33.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

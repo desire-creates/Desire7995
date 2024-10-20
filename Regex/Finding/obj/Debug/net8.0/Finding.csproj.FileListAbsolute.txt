@@ -1,0 +1,15 @@
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/Regex/Finding/bin/Debug/net8.0/Finding
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/Regex/Finding/bin/Debug/net8.0/Finding.deps.json
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/Regex/Finding/bin/Debug/net8.0/Finding.runtimeconfig.json
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/Regex/Finding/bin/Debug/net8.0/Finding.dll
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/Regex/Finding/bin/Debug/net8.0/Finding.pdb
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/Regex/Finding/obj/Debug/net8.0/Finding.GeneratedMSBuildEditorConfig.editorconfig
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/Regex/Finding/obj/Debug/net8.0/Finding.AssemblyInfoInputs.cache
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/Regex/Finding/obj/Debug/net8.0/Finding.AssemblyInfo.cs
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/Regex/Finding/obj/Debug/net8.0/Finding.csproj.CoreCompileInputs.cache
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/Regex/Finding/obj/Debug/net8.0/Finding.sourcelink.json
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/Regex/Finding/obj/Debug/net8.0/Finding.dll
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/Regex/Finding/obj/Debug/net8.0/refint/Finding.dll
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/Regex/Finding/obj/Debug/net8.0/Finding.pdb
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/Regex/Finding/obj/Debug/net8.0/Finding.genruntimeconfig.cache
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/Regex/Finding/obj/Debug/net8.0/ref/Finding.dll
