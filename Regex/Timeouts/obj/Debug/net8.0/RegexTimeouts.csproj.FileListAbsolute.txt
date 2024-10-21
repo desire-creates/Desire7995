@@ -1,0 +1,15 @@
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/Regex/Timeouts/bin/Debug/net8.0/RegexTimeouts
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/Regex/Timeouts/bin/Debug/net8.0/RegexTimeouts.deps.json
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/Regex/Timeouts/bin/Debug/net8.0/RegexTimeouts.runtimeconfig.json
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/Regex/Timeouts/bin/Debug/net8.0/RegexTimeouts.dll
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/Regex/Timeouts/bin/Debug/net8.0/RegexTimeouts.pdb
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/Regex/Timeouts/obj/Debug/net8.0/RegexTimeouts.GeneratedMSBuildEditorConfig.editorconfig
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/Regex/Timeouts/obj/Debug/net8.0/RegexTimeouts.AssemblyInfoInputs.cache
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/Regex/Timeouts/obj/Debug/net8.0/RegexTimeouts.AssemblyInfo.cs
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/Regex/Timeouts/obj/Debug/net8.0/RegexTimeouts.csproj.CoreCompileInputs.cache
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/Regex/Timeouts/obj/Debug/net8.0/RegexTimeouts.sourcelink.json
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/Regex/Timeouts/obj/Debug/net8.0/RegexTimeouts.dll
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/Regex/Timeouts/obj/Debug/net8.0/refint/RegexTimeouts.dll
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/Regex/Timeouts/obj/Debug/net8.0/RegexTimeouts.pdb
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/Regex/Timeouts/obj/Debug/net8.0/RegexTimeouts.genruntimeconfig.cache
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/Regex/Timeouts/obj/Debug/net8.0/ref/RegexTimeouts.dll

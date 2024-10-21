@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JH3ER1loN/Fo5EWHk5nj51hrkhDz8M+2Mklw8vPQGR4S4iroNVY5UcvOaVrHMI9p2k7LFfG90kThuZ3ejPQjbQ==",
+  "dgSpecHash": "e88YiqXO91YCLcoDw0fa4Y4JH761gIwEmWzWC8QKzVFDc0Ts9XDgsy7jiiFSzbotywsZdwhJ514VO5L1vBHtoQ==",
   "success": true,
   "projectFilePath": "/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/Desire7995/Regex/Timeouts/RegexTimeouts.csproj",
-  "expectedPackageFiles": [
-    "/home/desire/.nuget/packages/microsoft.netcore.app.ref/6.0.33/microsoft.netcore.app.ref.6.0.33.nupkg.sha512",
-    "/home/desire/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.33/microsoft.aspnetcore.app.ref.6.0.33.nupkg.sha512",
-    "/home/desire/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.33/microsoft.netcore.app.host.linux-x64.6.0.33.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
